@@ -2,8 +2,13 @@ body {
     background-color: crimson;
 }
 body {
-    color: blue;
+    color: rgb(221, 240, 248);
 }
 h1 {
-    color: darkgreen;
+    color: rgb(114, 0, 180);
+}
+img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
 }
